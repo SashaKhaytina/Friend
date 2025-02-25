@@ -29,10 +29,6 @@ git branch
 ```
 git push --set-upstream origin name_of_branch
 ```
-По правилам хорошего тона перед этой командой следует написать следующую:
 
-```
-git pull
-```
 
 
